@@ -1,7 +1,4 @@
-# CSGO-CFG
-ztclog's csgo configs
-
-# How to use cfgs
+# how to use
 just place the cfg files in directory:
 
 	X:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
