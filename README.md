@@ -19,5 +19,5 @@ ztclog's csgo launch options are:
 
 	-perfectworld -freq 240 -tickrate 128 +exec ztclog.cfg
 
-# video settings
+# video settings and others
 please check [settings.gg](https://settings.gg/ztclog)
