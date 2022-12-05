@@ -1,17 +1,17 @@
 # how to use
-just place all .cfg files in directory:
+Just place all the .cfg files in directory:
 
-	X:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+	X:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\
 	
 place 99-Customfonts.conf in directory:
 
-	X:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\fonts\conf.d
+	X:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\fonts\conf.d\
 	
-if you are not a Windows steam user, please place in the other right directory.
+If you are not a Windows steam user, please place in the other right directory.
 
-99-Customfonts.conf is to change in-game font pattern. Note: the file's name format must be 99-foobar.conf
+99-Customfonts.conf is to change in-game font pattern. Note: the file's name must begin with "99-"
 
-It should be okay to load cfgs by inputing
+It should be okay to load cfgs by inputing:
 
 	exec foobar.cfg
 	
